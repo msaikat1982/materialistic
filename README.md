@@ -105,3 +105,4 @@ Contributions are always welcome. Please make sure you read [Contributing notes]
 [AndroidDev Digest 99 Badge]: https://img.shields.io/badge/androiddev--digest-99-blue.svg
 [AndroidDev Digest 99]: https://www.androiddevdigest.com/digest-99/
 [PDF.js]: https://mozilla.github.io/pdf.js/
+..17022021
